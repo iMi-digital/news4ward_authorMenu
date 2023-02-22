@@ -29,7 +29,7 @@
                 "imi/news4ward": "~2"
         },
         "replace":{
-                "contao-legacy/news4ward_authorMenu": "*",
+                "contao-legacy/news4ward_authormenu": "*",
                 "psi/news4ward_author-menu": "self.version"
         },
         "extra": {
